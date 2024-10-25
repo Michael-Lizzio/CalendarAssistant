@@ -1,2 +1,1 @@
-This program is connected to your email and google calendar and allow communication via a Telegram bot.
-
+This program is connected to your email and google calendar and allow communication via a Telegram bot. It captures data from emails and other sources to be filtered by ChatGPT and be added to your calendar when confirmed through telegram.
