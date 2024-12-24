@@ -6,7 +6,7 @@ File: chatgpt.py
 
 # imports
 from openai import OpenAI
-from secret import CHAT_GPT_API
+from old.secret import CHAT_GPT_API
 
 
 # Main ChatGPT class for ai functions

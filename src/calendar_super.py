@@ -5,8 +5,8 @@ File: calendar_super.py
 """
 
 # imports
-from secret import MY_EMAIL
-from secret import CLIENT_PATH as CREDENTIALS_PATH
+from old.secret import MY_EMAIL
+from old.secret import CLIENT_PATH as CREDENTIALS_PATH
 from gcsa.google_calendar import GoogleCalendar
 
 

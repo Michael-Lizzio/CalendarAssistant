@@ -162,7 +162,7 @@ cython_debug/
 #.idea/
 
 # My additions
-secret.py*
-/credentials.json
-/client_secret.json
+secret.py
+/old/credentials.json
+/old/client_secret.json
 /token.pickle
